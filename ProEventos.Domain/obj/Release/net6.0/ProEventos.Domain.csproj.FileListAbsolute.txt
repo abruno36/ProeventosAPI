@@ -1,0 +1,12 @@
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\bin\Release\net6.0\ProEventos.Domain.deps.json
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\bin\Release\net6.0\ProEventos.Domain.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\bin\Release\net6.0\ProEventos.Domain.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ProEventos.Domain.AssemblyInfo.cs
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ProEventos.Domain.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\refint\ProEventos.Domain.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ProEventos.Domain.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Domain\obj\Release\net6.0\ref\ProEventos.Domain.dll

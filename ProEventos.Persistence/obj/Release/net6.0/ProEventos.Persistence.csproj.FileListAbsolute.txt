@@ -1,0 +1,17 @@
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\bin\Release\net6.0\ProEventos.Persistence.deps.json
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\bin\Release\net6.0\ProEventos.Persistence.runtimeconfig.json
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\bin\Release\net6.0\ProEventos.Persistence.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\bin\Release\net6.0\ProEventos.Persistence.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\bin\Release\net6.0\ProEventos.Domain.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\bin\Release\net6.0\ProEventos.Domain.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\refint\ProEventos.Persistence.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ProEventos.Persistence.genruntimeconfig.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Persistence\obj\Release\net6.0\ref\ProEventos.Persistence.dll

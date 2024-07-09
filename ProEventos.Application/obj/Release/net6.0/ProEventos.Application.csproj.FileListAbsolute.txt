@@ -1,0 +1,17 @@
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\bin\Release\net6.0\ProEventos.Application.deps.json
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\bin\Release\net6.0\ProEventos.Application.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\bin\Release\net6.0\ProEventos.Application.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\bin\Release\net6.0\ProEventos.Domain.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\bin\Release\net6.0\ProEventos.Persistence.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\bin\Release\net6.0\ProEventos.Domain.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\bin\Release\net6.0\ProEventos.Persistence.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.AssemblyInfo.cs
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.csproj.CopyComplete
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\refint\ProEventos.Application.dll
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ProEventos.Application.pdb
+C:\Users\antonio.bruno\Documents\ProEventosAPI\Back\src\ProEventos.Application\obj\Release\net6.0\ref\ProEventos.Application.dll
