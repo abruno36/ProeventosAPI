@@ -1,0 +1,17 @@
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Application.deps.json
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Application.dll
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Application.pdb
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Domain.dll
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Persistence.dll
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Domain.pdb
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net6.0\ProEventos.Persistence.pdb
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.AssemblyInfo.cs
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEvent.FC6AB697.Up2Date
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.dll
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\refint\ProEventos.Application.dll
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ProEventos.Application.pdb
+C:\Projetos\ProEventos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net6.0\ref\ProEventos.Application.dll
