@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KrDG9N7jykbAKyGl+OXVRG5sxc6y5E/RQVs2BsZ4WZh6lHwWqdpYQyUoC9CbSU+EWy/y7hVlhszco2wXH/ZA2w==",
+  "dgSpecHash": "IiQv3vnjLhydmHHmwtB0IPUQ/EjmWvun3kl8AIW0r4xxeP5CzuHcb2lND8fbAlIvRxIoCP1BIDU/Zt+WWrI/3Q==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+  "projectFilePath": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antonio.bruno\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
     "C:\\Users\\antonio.bruno\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.16\\microsoft.aspnetcore.cryptography.keyderivation.6.0.16.nupkg.sha512",

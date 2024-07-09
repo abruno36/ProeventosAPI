@@ -2211,11 +2211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
       "projectName": "ProEventos.Persistence",
-      "projectPath": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+      "projectPath": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
       "packagesPath": "C:\\Users\\antonio.bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antonio.bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2232,8 +2232,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+            "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+              "projectPath": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
             }
           }
         }
@@ -2242,11 +2242,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {}
+    "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+    "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "projectName": "ProEventos.Domain",
-        "projectPath": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectPath": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "packagesPath": "C:\\Users\\antonio.bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ProEventos\\ProEventos\\Back\\src\\ProEventos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\antonio.bruno\\Documents\\ProEventosAPI\\Back\\src\\ProEventos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antonio.bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
